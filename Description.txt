@@ -1,0 +1,7 @@
+Hi,this is my first project, I really hope you like it, it is very easy to use, just write the answer (number) in the answer box. The program code is open. Thank you for your attention!=)
+Note: questions and answers in Russian.
+
+//////////////////////////////////////////////////////////////
+
+Привет, это мой первый проект, я очень надеюсь, вам понравится, он очень прост в использовании, просто напишите ответ (номер) в поле ответа. Код программы открыт. Спасибо за внимание! =) 
+Примечание: вопросы и ответы на русском языке.
